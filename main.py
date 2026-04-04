@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-ANÁLISE DE CHUVA ANUAL - COMPLETO
-Salve este arquivo e execute com: python analise_chuva.py
-"""
-
 import os
 import sys
 from datetime import datetime

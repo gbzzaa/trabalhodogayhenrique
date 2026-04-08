@@ -10,12 +10,12 @@ Calcular médias, máximos e mínimos à mão para 12 meses é lento e propenso 
 #### ⚠ Risco humano
 Um número digitado errado pode comprometer toda a análise climática.
 
-#### 💡 Solução Python
+####  Solução Python
 O programa automatiza cálculos, valida entradas e exibe resultados em segundos.
 
 ---
 
-### O que o programa faz?
+### O que o programa faz na pratica?
 
 #### Processo:
 - **Calcula**: Soma, média, máximo, mínimo das precipitações mensais.

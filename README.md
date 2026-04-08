@@ -1,6 +1,6 @@
 # Análise de Chuva Anual em Python
 
-Um sistema completo de análise de dados climáticos — automatizado, organizado e fácil de entender. Vamos explorar como o código funciona por dentro.
+  Um sistema completo de análise de dados climáticos — automatizado, organizado e fácil de entender. Vamos explorar como o código funciona por dentro.
 
 ### Por que automatizar a análise de chuva?
 

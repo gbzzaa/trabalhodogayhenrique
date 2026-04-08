@@ -2,7 +2,7 @@
 
   Um sistema completo de análise de dados climáticos — automatizado, organizado e fácil de entender. Vamos explorar como o código funciona por dentro.
 
-### Por que automatizar a análise de chuva?
+###  Por que automatizar a análise de chuva?
 
 #### Análise manual
 Calcular médias, máximos e mínimos à mão para 12 meses é lento e propenso a erros.
